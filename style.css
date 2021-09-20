@@ -1,0 +1,12 @@
+@media only screen and (min-width: 992px) {
+  #navbar {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+body {
+  background-color: royalblue;
+  color: white;
+  text-align: center;
+}
